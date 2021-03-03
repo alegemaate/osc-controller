@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/osc-controller/static/js/main.f3168f59.chunk.js",
+    "main.js.map": "/osc-controller/static/js/main.f3168f59.chunk.js.map",
+    "runtime-main.js": "/osc-controller/static/js/runtime-main.9c96e2fd.js",
+    "runtime-main.js.map": "/osc-controller/static/js/runtime-main.9c96e2fd.js.map",
+    "static/css/2.9fbfe229.chunk.css": "/osc-controller/static/css/2.9fbfe229.chunk.css",
+    "static/js/2.7f033c06.chunk.js": "/osc-controller/static/js/2.7f033c06.chunk.js",
+    "static/js/2.7f033c06.chunk.js.map": "/osc-controller/static/js/2.7f033c06.chunk.js.map",
+    "index.html": "/osc-controller/index.html",
+    "static/css/2.9fbfe229.chunk.css.map": "/osc-controller/static/css/2.9fbfe229.chunk.css.map",
+    "static/js/2.7f033c06.chunk.js.LICENSE.txt": "/osc-controller/static/js/2.7f033c06.chunk.js.LICENSE.txt",
+    "static/media/bloom.392dd1b6.png": "/osc-controller/static/media/bloom.392dd1b6.png",
+    "static/media/gmsynth.8026e8ce.png": "/osc-controller/static/media/gmsynth.8026e8ce.png",
+    "static/media/index.css": "/osc-controller/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c96e2fd.js",
+    "static/css/2.9fbfe229.chunk.css",
+    "static/js/2.7f033c06.chunk.js",
+    "static/js/main.f3168f59.chunk.js"
+  ]
+}
